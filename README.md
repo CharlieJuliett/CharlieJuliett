@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christopher Johnson (@NinetyOnePixels)
+- 👋 Hi, I’m Christopher Johnson (@CharlieJuliett)
 - 👀 I’m interested in front-end web development and design
 - 🌱 I’m currently learning TimberTwig, Wordpress and consistantly improving on front-end coding
 - 💞️ I’m looking to collaborate on ...
